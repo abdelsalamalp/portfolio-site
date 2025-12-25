@@ -12,7 +12,7 @@ import base64
 # - page_title sets the title shown in the browser tab
 # - page_icon sets the favicon (small icon in the browser tab)
 st.set_page_config(
-    page_title="Abdul Salam Nassar | Network Admin",
+    page_title="Abdul Salam Nassar",
     page_icon="🤠",  # Network emoji as icon
     initial_sidebar_state='collapsed'
 )
