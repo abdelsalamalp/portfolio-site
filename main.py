@@ -109,10 +109,10 @@ Networking isn't just what I do—it's who I am.
     "motto_header": "💬 Signature Quote",
     "motto": """
 “Every good Network Admin should be part scientist, part artist, and part detective.”<br>
-<span style="font-size:0.9em; color:#666;">— Gareth Nassar, 2023</span>
+<span style="font-size:0.9em; color:#666;">— Abdul Salam Nassar, 2023</span>
 """,
     "certification_header": '<a href="https://www.credly.com/badges/8ed85898-e494-4522-b4ba-e7fa4d63bb91/public_url" target="_blank" style="text-decoration:none; color:inherit;">🎖️ CompTIA Network+</a>',
-    "contact_footer": "📬 Contact: garethnassar@gmail.com | [LinkedIn](https://www.linkedin.com/in/canuckcowboy/) | [GitHub](https://github.com/canuck-cowboy)"
+    "contact_footer": "📬 Contact: abdusselam.nassar@gmail.com | [LinkedIn](https://www.linkedin.com/in/abdulsalam-nassar/) | [GitHub](https://github.com/abdelsalamalp)"
 }
 
 # French translations corresponding to the above English content
@@ -193,10 +193,10 @@ Je mets la même passion et précision dans chaque projet, qu’il s’agisse d�
     "motto_header": "💬 Citation Signature",
     "motto": """
 « Tout bon administrateur réseau devrait être en partie scientifique, en partie artiste, et en partie détective. »<br>
-<span style="font-size:0.9em; color:#666;">— Gareth Nassar, 2023</span>
+<span style="font-size:0.9em; color:#666;">— Abdul Salam Nassar, 2023</span>
 """,
     "certification_header": '<a href="https://www.credly.com/badges/8ed85898-e494-4522-b4ba-e7fa4d63bb91/public_url" target="_blank" style="text-decoration:none; color:inherit;">🎖️ CompTIA Network+</a>',
-    "contact_footer": "📬 Contact : garethnassar@gmail.com | [LinkedIn](https://www.linkedin.com/in/canuckcowboy/) | [GitHub](https://github.com/canuck-cowboy)"
+    "contact_footer": "📬 Contact : abdusselam.nassar@gmail.com | [LinkedIn](https://www.linkedin.com/in/abdulsalam-nassar/) | [GitHub](https://github.com/abdelsalamalp)"
 }
 
 # Choose the text dictionary based on selected language

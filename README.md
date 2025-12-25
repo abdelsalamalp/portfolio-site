@@ -1,4 +1,4 @@
-# Gareth Nassar | Network & System Administrator Portfolio
+# Abdul Salam Nassar | Network & System Administrator 
 
 Welcome to my personal portfolio website showcasing my skills, experience, and passion for network and system administration.
 
