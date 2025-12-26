@@ -123,7 +123,7 @@ french_text = {
     "job_title": "Administrateur Réseau & Systèmes",
     "resume_button": "📄 CV",
     "intro": """
-Le Prophète Muhammad (que la paix soit sur lui) a dit : « Celui qui emprunte un chemin en quête de savoir, Allah lui facilite un chemin vers le Paradis. »
+Le Prophète Muhammad (que la paix soit sur lui) a dit : "Celui qui emprunte un chemin en quête de savoir, Allah lui facilite un chemin vers le Paradis."
 
 Pour moi, les réseaux informatiques ne sont pas simplement une vocation ; c’est une responsabilité. De la configuration de mon premier routeur domestique à l’assistance apportée aux autres pour 
 leurs problèmes de connectivité, j’ai été attiré par la compréhension du fonctionnement des systèmes et par la manière dont la confiance se construit par la fiabilité. 
